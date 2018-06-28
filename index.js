@@ -1,4 +1,4 @@
-var TokenInput = require('./lib/main')
-TokenInput.Option = require('./lib/option')
+var TokenInput = require('./src/main')
+TokenInput.Option = require('./src/option')
 
 module.exports = TokenInput
